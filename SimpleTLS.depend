@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1507797980 source:/home/prashant/workspace/codeBlocks/SimpleTLS/client.cpp
+	"client.h"
+
+1507353651 source:/home/prashant/workspace/codeBlocks/SimpleTLS/handshake.cpp
+
+1507796958 source:/home/prashant/workspace/codeBlocks/SimpleTLS/main.cpp
+	"server.h"
+	"client.h"
+	<string>
+
+1507793295 /home/prashant/workspace/codeBlocks/SimpleTLS/server.h
+	<errno.h>
+	<unistd.h>
+	<malloc.h>
+	<string.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<resolv.h>
+	<stdio.h>
+	<iostream>
+	"openssl/ssl.h"
+	"openssl/err.h"
+
+1507797461 /home/prashant/workspace/codeBlocks/SimpleTLS/client.h
+	<errno.h>
+	<unistd.h>
+	<malloc.h>
+	<string.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<resolv.h>
+	<stdio.h>
+	<iostream>
+	"openssl/ssl.h"
+	"openssl/err.h"
+
+1507797990 source:/home/prashant/workspace/codeBlocks/SimpleTLS/server.cpp
+	"server.h"
+
