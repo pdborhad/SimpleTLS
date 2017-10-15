@@ -1,3 +1,6 @@
 #Read Me file
 
 Hello, this is simple TLS connection using OpenSSL programmed in C++ on linux exvironment. 
+Both the server and client code have been murged in single project. You just have to provide what do you want to start 'Server' or 'Client'
+
+
